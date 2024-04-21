@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 70230e17fb18e694ba81e3b930bc5cc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4311757677275393833
+    second: TornadoSprite_0
+  - first:
+      213: -4575802386149263926
+    second: TornadoSprite_1
+  - first:
+      213: -5238158494299336939
+    second: TornadoSprite_2
+  - first:
+      213: 5649646246188069202
+    second: TornadoSprite_3
+  - first:
+      213: -3129666293800691480
+    second: TornadoSprite_4
+  - first:
+      213: -7141081475011873649
+    second: TornadoSprite_5
+  - first:
+      213: -8070930286451703083
+    second: TornadoSprite_6
+  - first:
+      213: 1238616884350002861
+    second: TornadoSprite_7
+  - first:
+      213: -3588437808120330628
+    second: TornadoSprite_8
+  - first:
+      213: -862325372872302149
+    second: TornadoSprite_9
+  - first:
+      213: 8085271058742018837
+    second: TornadoSprite_10
+  - first:
+      213: -7262774025958802300
+    second: TornadoSprite_11
+  - first:
+      213: 7487657538428689973
+    second: TornadoSprite_12
+  - first:
+      213: -7926862862641129903
+    second: TornadoSprite_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TornadoSprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1154.5
+        width: 1065.4286
+        height: 682.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0df68bc3f8924c0800000000000000
+      internalID: -4311757677275393833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TornadoSprite_1
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1154.5
+        width: 1065.4286
+        height: 682.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5303339fb7f70c0800000000000000
+      internalID: -4575802386149263926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TornadoSprite_2
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 1154.5
+        width: 1065.4286
+        height: 682.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fc7163a925e47b0800000000000000
+      internalID: -5238158494299336939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TornadoSprite_3
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 1154.5
+        width: 1065.4286
+        height: 682.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251b8aae353976e40800000000000000
+      internalID: 5649646246188069202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TornadoSprite_4
+      rect:
+        serializedVersion: 2
+        x: 4664
+        y: 1154.5
+        width: 1065.4286
+        height: 682.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e81f7466113194d0800000000000000
+      internalID: -3129666293800691480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TornadoSprite_5
+      rect:
+        serializedVersion: 2
+        x: 5830
+        y: 1154.5
+        width: 1065.4286
+        height: 682.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f847bc9cb38c5ec90800000000000000
+      internalID: -7141081475011873649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TornadoSprite_6
+      rect:
+        serializedVersion: 2
+        x: 6996
+        y: 1154.5
+        width: 1065.4286
+        height: 682.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2ca158aab4eff80800000000000000
+      internalID: -8070930286451703083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TornadoSprite_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236.5
+        width: 1065.4286
+        height: 682.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6ab7c6e73703110800000000000000
+      internalID: 1238616884350002861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TornadoSprite_8
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 236.5
+        width: 1065.4286
+        height: 682.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76086c63de433ec0800000000000000
+      internalID: -3588437808120330628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TornadoSprite_9
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 236.5
+        width: 1065.4286
+        height: 682.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1e32564a76804f0800000000000000
+      internalID: -862325372872302149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TornadoSprite_10
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 236.5
+        width: 1065.4286
+        height: 682.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5138019b037a43070800000000000000
+      internalID: 8085271058742018837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TornadoSprite_11
+      rect:
+        serializedVersion: 2
+        x: 4664
+        y: 236.5
+        width: 1065.4286
+        height: 682.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cbac2d081753b90800000000000000
+      internalID: -7262774025958802300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TornadoSprite_12
+      rect:
+        serializedVersion: 2
+        x: 5830
+        y: 236.5
+        width: 1065.4286
+        height: 682.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e51d12cd089e760800000000000000
+      internalID: 7487657538428689973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TornadoSprite_13
+      rect:
+        serializedVersion: 2
+        x: 6996
+        y: 236.5
+        width: 1065.4286
+        height: 682.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1561a0989302ef190800000000000000
+      internalID: -7926862862641129903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
